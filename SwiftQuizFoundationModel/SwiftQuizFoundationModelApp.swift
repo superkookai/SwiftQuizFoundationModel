@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftQuizFoundationModelApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SwiftTopicListScreen()
         }
     }
 }
